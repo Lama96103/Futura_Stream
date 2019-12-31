@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Projects\Futura_Stream\Futura_Stream\Host\main.cpp(86,33): error C2664: 'int wsprintfA(LPSTR,LPCSTR,...)': cannot convert argument 1 from 'WCHAR [100]' to 'LPSTR'
+D:\Projects\Futura_Stream\Futura_Stream\Host\main.cpp(86,12): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(326,1): message : see declaration of 'wsprintfA'
